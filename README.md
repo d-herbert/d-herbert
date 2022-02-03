@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/d-herbert/d-herbert/blob/main/headerShapes.png" align="center" style="width: 100%" />
 </div>  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=d-herbert&show_icons=true&theme=radical)
