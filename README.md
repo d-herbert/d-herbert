@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github.com/d-herbert/d-herbert/blob/main/headerShapes.png" align="center" style="width: 100%" />
 </div>  
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=d-herbert&show_icons=true&theme=radical)
