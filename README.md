@@ -1,23 +1,12 @@
-### Hi there 👋
-
-<!--
-**d-herbert/d-herbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- testing... -->
+D E I D R E ✨
+<ul>
+  <li>web dev</li>
+  <li>data viz</li>
+  <li>graphic design</li>
+</ul>
 
 <div align="center">
 <img src="https://github.com/d-herbert/d-herbert/blob/main/headerShapes.png" align="center" style="width: 100%" />
 </div>  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=d-herbert&show_icons=true&theme=radical)
+
